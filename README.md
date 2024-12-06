@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rusiru Salwathura</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusirukalu" alt="rusirukalu" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rusiru_kalu" target="blank"><img src="https://img.shields.io/twitter/follow/rusiru_kalu?logo=twitter&style=for-the-badge" alt="rusiru_kalu" /></a> </p>
 
 - 🌱 I’m currently learning **React, Tailwind CSS, Nodejs**
