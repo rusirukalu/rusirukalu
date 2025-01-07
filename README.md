@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rusirusalwathura@icloud.com**
 
-- ⚡ Fun fact **Introvert at it's best...**
+- ⚡ Fun fact: **Introvert at it's best...**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
