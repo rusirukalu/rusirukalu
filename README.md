@@ -7,7 +7,7 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 - 🎓 Graduated with **BEng (Hons) in Software Engineering** from London Metropolitan University, UK  
 - 💻 Experienced in **Full-Stack Development**, **UI/UX Design**, and **Cloud Deployments**  
 - 🌱 Currently exploring **DevOps, AWS, and scalable architectures**  
@@ -17,7 +17,7 @@
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://github.com/rusirukalu" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/rusiru-salwathura-8a2b34303" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
