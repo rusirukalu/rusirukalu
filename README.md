@@ -24,7 +24,7 @@ I focus on predictable component systems, performance-safe motion, and maintaina
 - Radix primitives with shadcn/ui
 
 **Backend**
-- Node.js
+- Node.js with Fastify
 - REST APIs
 - Prisma ORM
 - PostgreSQL
